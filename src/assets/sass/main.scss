@@ -1,0 +1,14 @@
+@import '~normalize.css';
+@import 'settings/*scss';
+@import 'settings/mixins/*scss';
+@import 'components/*scss';
+
+body {
+  font-family:'dinregularwebfont', Helvetica, Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@import 'modules/*.scss';
