@@ -1,0 +1,19 @@
+
+.container {
+  height: 100%;
+  margin: 0 auto;
+  max-width: 1204px;
+  padding: 0 20px;
+  width: 100%;
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
+  @include media('tablet') {
+    padding: 0;
+  }
+}
