@@ -1,0 +1,12 @@
+@import 'settings/variables.scss';
+
+@for $i from 1 through $grid-cols {
+  .col-#{$i} {
+    background-color: $black;
+    border: 1px solid $white;
+    color: $white;
+    height: 40px;
+    text-align: center;
+    width: (100% / $grid-cols) * $i;
+  }
+}
