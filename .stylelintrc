@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "stylelint-order"
+  ],
+  "rules": {
+    "color-hex-case": "lower",
+    "color-hex-length": "short",
+    "font-family-no-duplicate-names": true,
+    "number-leading-zero": "never",
+  }
+}
