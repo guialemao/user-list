@@ -2,7 +2,6 @@ import getPersons from '../getData/getPersons.js';
 
 const listRegister = () => {
   let persons = getPersons();
-  console.log(persons);
   let listContainter = document.querySelector(".list-container");
   let templatePerson =`
     <ul>
