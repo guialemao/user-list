@@ -1,4 +1,4 @@
-# Teste de Front-end Easynvest
+# User List
 Teste realizado utilizando Vanilla Js, LocalStorage para persistir os dados e Webpack como task runner.
 
 ### O Desafio
