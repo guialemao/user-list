@@ -1,10 +1,10 @@
 import '../sass/main.scss';
-import form from './components/formNameValidation.js';
-import savePerson from './components/savePerson.js';
-import listRegister from './components/listRegister.js';
-import addRegister from './components/addRegister.js';
-import deleteRegister from './components/deleteRegister.js';
-import getInitialData from './components/getInitialData.js';
+import form from './components/formValidation/formNameValidation.js';
+import savePerson from './components/sendSave/savePerson.js';
+import listRegister from './components/list/listRegister.js';
+import addRegister from './components/addRemove/addRegister.js';
+import deleteRegister from './components/addRemove/deleteRegister.js';
+import getInitialData from './components/getData/getInitialData.js';
 
 const name = document.querySelector(".input-name");
 const email = document.querySelector(".input-email");

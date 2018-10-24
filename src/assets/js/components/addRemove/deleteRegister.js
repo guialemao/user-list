@@ -1,4 +1,4 @@
-import getPersons from './getPersons.js';
+import getPersons from '../getData/getPersons.js';
 
 const PERSONS = 'persons';
 

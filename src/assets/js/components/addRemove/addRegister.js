@@ -1,4 +1,4 @@
-import onSubmit from './onSubmit';
+import onSubmit from '../sendSave/onSubmit';
 
 const btn = document.querySelector(".button");
 
