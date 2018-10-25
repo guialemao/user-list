@@ -1,7 +1,7 @@
 
 # User List
 
-Teste realizado utilizando Vanilla Js, LocalStorage para persistir os dados e Webpack como task runner.
+Teste realizado utilizando Vanilla Js, LocalStorage para persistir os dados e Webpack como module bundler.
 
 ![image](https://i.imgur.com/e8YntT4.gif)
 
